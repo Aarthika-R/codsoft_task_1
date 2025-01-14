@@ -1,3 +1,3 @@
 # CodSoft_Internship
 
-CodSoft Internshipp Projects
+CodSoft Internship Projects
